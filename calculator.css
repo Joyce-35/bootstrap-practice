@@ -1,0 +1,25 @@
+.container{
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.box-1 {
+    background-color: #839AA8;
+}
+.into{
+    text-align: right;
+    color: white;
+}
+.box-2{
+    border: 1px #DAEAF1 solid;
+    background-color:#D3CEDF;
+    color: black;
+}
+.box-3{
+    border: 1px #DAEAF1 solid;
+    background-color: #FF9F29;
+    color: white;
+}
+p{
+    font-size: 30px;
+    font-weight: 50px;
+}
